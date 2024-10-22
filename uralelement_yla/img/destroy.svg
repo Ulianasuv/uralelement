@@ -1,0 +1,15 @@
+<svg width="275" height="305" viewBox="0 0 275 305" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="52" y1="199" x2="102" y2="199" stroke="black" stroke-width="10"/>
+<path d="M0 252H53.5" stroke="black" stroke-width="10"/>
+<line x1="2" y1="175" x2="52" y2="175" stroke="black" stroke-width="10"/>
+<path d="M211 270H188.5C267.3 233.199 241.667 173.666 219 148.5V143L227.5 118.5L214.5 109.5L254.5 9.9996C267.3 -0.800399 269.833 12.4996 269.5 20.4996L235 114L245 122.5L238.5 148.5C286.9 212.9 240.333 256.333 211 270Z" fill="#282828" stroke="#383838" stroke-width="10"/>
+<circle cx="170" cy="201" r="67" stroke="black" stroke-width="10"/>
+<path d="M183 107L172 129.5C192.8 129.5 211 142.5 217.5 149L225 121L183 107Z" stroke="black" stroke-width="10"/>
+<path d="M235.408 10.2324L195.893 110.503C195.68 111.042 195.969 111.648 196.521 111.823L222.09 119.92C223.055 120.226 223.811 119.07 223.145 118.308L215.404 109.462C215.156 109.178 215.088 108.78 215.228 108.431L252.388 15.7791C252.461 15.597 252.478 15.3891 252.436 15.1973C249.595 2.14774 240.232 6.08098 235.689 9.84101C235.563 9.94564 235.469 10.0797 235.408 10.2324Z" stroke="black" stroke-width="10"/>
+<rect x="5" y="9" width="92" height="291" rx="8" stroke="black" stroke-width="10"/>
+<line x1="56" y1="6" x2="56" y2="305" stroke="black" stroke-width="10"/>
+<line y1="123" x2="98" y2="123" stroke="black" stroke-width="10"/>
+<line x1="2" y1="82" x2="52" y2="82" stroke="black" stroke-width="10"/>
+<line x1="52" y1="57" x2="100" y2="57" stroke="black" stroke-width="10"/>
+<line x1="53" y1="276" x2="100" y2="276" stroke="black" stroke-width="10"/>
+</svg>
